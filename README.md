@@ -1,0 +1,2 @@
+# MinesApp
+Minesweeper for android
